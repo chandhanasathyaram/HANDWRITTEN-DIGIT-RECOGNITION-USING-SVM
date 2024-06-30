@@ -1,0 +1,1 @@
+The system is designed to overcome challenges from variations in handwriting styles. It involves preprocessing the dataset, extracting features, training a SVM model on training images, and using the trained model to classify testing and real-time input images and output the recognized character or digit.
